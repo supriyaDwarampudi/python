@@ -24,3 +24,11 @@ print(ch[4])
    o/p:
    Enter a charSUPRIYA
    i
+
+    
+    (or)
+    result=eval(input('Enter the exp'))
+print(result)
+o/p:
+  Enter the exp2+5-1
+6
