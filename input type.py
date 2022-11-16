@@ -1,2 +1,4 @@
-ch=input('Enter a char')[2]
-print(ch)
+x=int(input("Enter first number"))
+y=int(input("Enter second number"))
+z=x+y
+print(z)
