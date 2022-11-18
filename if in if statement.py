@@ -6,3 +6,6 @@ if(r==0):
         print("Greater than 4")
 else:
     print("ODD")
+o/p
+EVEN
+Greater than 4
