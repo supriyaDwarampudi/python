@@ -9,3 +9,20 @@ print('Total Marks:',sum)
 n=len(marks)
 percent=sum/n
 print('Percentage: ',percent)
+
+
+
+
+
+
+
+
+output:
+    Enter value:10 25 14 269 45
+10
+25
+14
+269
+45
+Total marks: 363
+percentage: 72.6
